@@ -1,0 +1,195 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+body {
+  font-family: 'Questrial';
+  }
+
+section {
+  max-width: 1200px;
+  text-align: center;
+  margin: auto;
+}
+
+section p {
+  font-size: 0.8em;
+  margin-bottom: 0.5em;
+  color: #696969;
+}
+
+header {
+  background-color: #2056ac;
+  text-align: center;
+  height: 20em;
+  margin: auto;
+}
+
+i {
+  color: white;
+  margin-top: 2.5em;
+  margin-bottom: 0.4em;
+}
+
+
+h1 {
+  font-size: 3.8em;
+  color: white;
+}
+
+h2 {
+  margin-top: 3em;
+  margin-bottom: 2em;
+  font-size: 1.8em;
+}
+
+nav {
+  margin-top: 7em;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+  color: #fff;
+  margin-left: 1em;
+}
+
+nav li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+nav li a:hover {
+  background-color: #fff;
+  color: black;
+  padding-top: 1.5em;
+  padding-bottom: 0.5em;
+}
+
+img {
+max-width: 1200px;
+margin: auto;
+margin-top: 5em;
+}
+
+h3 {
+  margin-top: 4em;
+  margin-bottom: 2em;
+  font-size: 1.1em;
+}
+
+h4 {
+  margin-top: 4em;
+  margin-bottom: 2em;
+  color: #696969;
+}
+
+.trio {
+  height: 23em;
+  width: 30%;
+  display: inline-block;
+  margin-top: 4em;
+  border-top: 1px solid #d3d3d3;
+}
+
+.trio p {
+  margin-bottom: 0.5em;
+  font-size: 0.8em;
+}
+
+.quator {
+  height: 17em;
+  width: 23%;
+  display: inline-block;
+  border-top: 1px solid #d3d3d3;
+}
+
+.quator p {
+  margin-bottom: 0.5em;
+  font-size: 0.8em;
+}
+
+footer{
+  max-width: 1200px;
+  text-align: center;
+  margin: auto;
+}
+
+.icone{
+  height: 17em;
+  background-color: #87ceeb;
+}
+
+.icone p {
+  font-size: 0.8em;
+}
+
+
+#bandeau{
+  height: 1.5em;
+  background-color: #0050d0;
+}
+
+#fin{
+  height: 12em;
+  background-color: #0030d0;
+}
+
+.grosicone {
+  display: inline-block;
+  text-align: center;
+  width: 30%;
+}
+
+.icone i {
+  color: #696969;
+  margin-bottom: 1em;
+}
+
+#thefin {
+  padding-top: 4em;
+  margin-bottom: 2.5em;
+  color: white;
+  font-size: 0.8em;
+}
+
+button {
+  width: 9em;
+  height: 2.5em;
+  background-color: #64abd1;
+  border: none;
+  margin-top: 2em;
+  text-decoration: none;
+}
+
+.trio a {
+  text-decoration: none;
+  color: white;
+}
+
+.trio button {
+  margin-top: 4em;
+  width: 8em;
+}
+
+.quator a {
+  text-decoration: none;
+  color: white;
+}
+
+.toto {
+  display: inline-block;
+  width: 2em;
+  margin-left: 0.2em;
+  background-color: #64abd1;
+  height: 2em;
+}
+
+.toto .fa {
+  margin:auto;
+  margin-top: 0.5em;
+}
